@@ -1,0 +1,6 @@
+{
+  "name": "Anti-Drone Telemetry Dashboard",
+  "description": "Real-time telemetry and synchronization dashboard for an anti-drone tracking system.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
